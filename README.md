@@ -12,4 +12,4 @@ I'm passionate about web development and currently learning **HTML, CSS, JavaScr
 - [GitHub Profile](https://github.com/Sanjana-Dhabale)  
 - [LinkedIn Profile](https://www.linkedin.com/in/sanjanadhabale/) 
 
-✨ *Follow my journey as I build projects and improve my skills!*  
+✨ *Follow my journey as I build projects and improve my skills!*
